@@ -1,7 +1,6 @@
 
 /*
 Author: Connor Kanalec
-ID: 180871330
 Class: Intro to Operating Systems
 Assignment #1: Dispatcher
 */
