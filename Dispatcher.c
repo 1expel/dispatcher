@@ -1,12 +1,4 @@
 
-/*
-Author: Connor Kanalec
-Class: Intro to Operating Systems
-Assignment #1: Dispatcher
-*/
-
-// -------------------------------------------------------------------------------------
-
 // libraries
 
 #include <stdio.h>
